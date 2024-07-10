@@ -5,4 +5,4 @@ usami:
     port: 3306
     database: neko_take_out
     username: root
-    password: 990108
+    password: "990108"
